@@ -1,0 +1,48 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.image1{
+    margin: 30px;
+    width: 150px;
+    height: 80px;
+    border-radius: 10px;
+}
+.btn1{
+    margin: 0px 10px 0px 1100px;
+}
+.btn_3{margin-left: 300px;}
+
+.inp1{
+margin-left: 30px;
+width: 700px;
+height: 40px;
+border-radius: 10px;
+padding: 5px;
+}
+.btn_4{
+    margin: 0px 0px 5px 10px;
+    width: 150px;
+    height: 40px;
+}
+
+.card-deck{
+    margin-top: 30px;
+}
+
+.card{
+text-align: center;
+width: 350px;
+height: 150px;
+float: left;
+margin:200px 0PX 200PX 120px;
+
+}
+
+.card img{
+    width: 350px;
+    height: 370px;
+    background-attachment: fixed;
+}

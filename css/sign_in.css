@@ -1,0 +1,17 @@
+.image1{
+    margin: 30px;
+    width: 150px;
+    height: 80px;
+    border-radius: 10px;
+}
+.parent{
+    width: 1000px;
+    height: 380px;
+    margin: 100px 250px;
+    background-color: rgb(236, 236, 236);
+    padding: 30px;
+}
+
+.cla1{
+    margin: 20px 0px;
+}

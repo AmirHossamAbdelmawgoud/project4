@@ -1,0 +1,95 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    width: 1500px;
+}
+
+.a1{
+    margin-left: 10px;
+}
+
+.image1{
+    margin: 30px;
+    width: 150px;
+    height: 80px;
+    border-radius: 10px;
+}
+.btn1{
+    margin: 0px 10px 0px 0px;
+}
+.btn_3{margin-left: 140px;}
+
+.inp1{
+margin-left: 30px;
+width: 700px;
+height: 40px;
+border-radius: 10px;
+padding: 5px;
+
+}
+.btn_4{
+    margin: 0px 0px 5px 10px;
+    width: 150px;
+    height: 40px;
+}
+
+.card-decks{
+    margin-top: 30px;
+    padding: 0px 0PX 0PX 170px;
+}
+
+
+.icon_1{
+    font-size: 15px;
+    margin-right: 20px;
+    color: rgb(0, 157, 255);
+}
+.span_1{
+        margin-left: 1030px;
+}
+.span_2{
+    margin-left: 5px;
+    margin-right: 10px;
+}
+.card{
+text-align: center;
+width: 350px;
+height: 150px;
+float: left;
+margin:200px 20px;
+}
+.div_1{
+    width: 150px;
+    height: 100px;
+    margin: -80px 0px 0px 1330px;
+     display: none;
+}
+
+.div_1 p{
+    border: 1px solid black;
+    border-radius: 5px;
+    margin-top: 10px;
+    padding: 5px;
+}
+.div_prodect div{
+    width: 180px;
+    height: 100px;
+    background-color: rgba(0, 149, 255, 0.218);
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 5px;
+    margin: 10px 0px;
+}
+
+.icon_11{
+    margin: 20px 30px 0px 30px;
+}
+
+.card img{
+    width: 350px;
+    height: 370px;
+    background-attachment: fixed;
+}
