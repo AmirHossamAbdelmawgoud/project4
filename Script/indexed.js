@@ -11,15 +11,15 @@ document.addEventListener("DOMContentLoaded", function() {
 
     let allpridect = document.querySelector(".card-decks");
 let prodect = [
-        { id: 1, Type: "iphone 12", price: 6500, catgore: "watched" , image:"../Project 4/image/iphone 12.jpg"},
-        { id: 2, Type: "iphone 16", price: 8000, catgore: "yelloe" , image:"../Project 4/image/iphone 16.jpg"},
-        { id: 3, Type: "samsung galaxy z", price: 9000, catgore: "watched" , image:"../Project 4/image/samsung galaxy z.jpg"},
-        { id: 4, Type: "poco 3", price: 9000, catgore: "watched" , image:"../Project 4/image/poco 3.jpg"},
-        { id: 5, Type: "Redmi Note11", price: 12000, catgore: "watched" , image:"../Project 4/image/Redmi Note11.jpg"},
-        { id: 6, Type: "Reno 5", price: 12000, catgore: "watched" , image:"../Project 4/image/Reno 5.webp"},
-        { id: 7, Type: "Reno 7", price: 12000, catgore: "watched" , image:"../Project 4/image/Reno 7.webp"},
-        { id: 8, Type: "samsung a16", price: 24000, catgore: "watched" , image:"../Project 4/image/samsung a16.jpg"},
-        { id: 9, Type: "Valu16", price: 12000, catgore: "watched" , image:"../Project 4/image/Valu16.jpg"},
+        { id: 1, Type: "iphone 12", price: 6500, catgore: "watched" , image:"image/iphone 12.jpg"},
+        { id: 2, Type: "iphone 16", price: 8000, catgore: "yelloe" , image:"image/iphone 16.jpg"},
+        { id: 3, Type: "samsung galaxy z", price: 9000, catgore: "watched" , image:"image/samsung galaxy z.jpg"},
+        { id: 4, Type: "poco 3", price: 9000, catgore: "watched" , image:"image/poco 3.jpg"},
+        { id: 5, Type: "Redmi Note11", price: 12000, catgore: "watched" , image:"image/Redmi Note11.jpg"},
+        { id: 6, Type: "Reno 5", price: 12000, catgore: "watched" , image:"image/Reno 5.webp"},
+        { id: 7, Type: "Reno 7", price: 12000, catgore: "watched" , image:"image/Reno 7.webp"},
+        { id: 8, Type: "samsung a16", price: 24000, catgore: "watched" , image:"image/samsung a16.jpg"},
+        { id: 9, Type: "Valu16", price: 12000, catgore: "watched" , image:"image/Valu16.jpg"},
     ];
 
    function draw() {
